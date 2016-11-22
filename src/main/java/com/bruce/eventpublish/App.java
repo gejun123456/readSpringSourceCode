@@ -1,6 +1,5 @@
-package com.bruce;
+package com.bruce.eventpublish;
 
-import com.bruce.eventpublish.MyComponent;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.context.ConfigurableApplicationContext;

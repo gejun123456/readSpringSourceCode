@@ -7,6 +7,8 @@ import org.springframework.stereotype.Component;
 /**
  * Created by bruce.ge on 2016/11/22.
  */
+
+//how does it work internal.
 @Component
 public class MyComponent {
     private final ApplicationEventPublisher publisher;
