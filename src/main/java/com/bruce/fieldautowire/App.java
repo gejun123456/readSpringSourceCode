@@ -1,4 +1,4 @@
-package com.bruce.autowire;
+package com.bruce.fieldautowire;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.SpringBootConfiguration;
